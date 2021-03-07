@@ -24,7 +24,7 @@ const Footer = () => {
           </a>
           ).
           <br />
-          Copyright © 2019. All rights reserved.
+          Copyright © 2021. All rights reserved.
         </p>
       </div>
     </footer>
