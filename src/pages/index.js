@@ -13,7 +13,7 @@ const IndexPage = () => (
     <main role="main" className="inner cover">
       <h1 className="cover-heading">Home.</h1>
       <p className="lead">
-        Welcome to the landing page developed with the framework Gatsby.
+        Welcome Tobias to the landing page developed with the framework Gatsby.
       </p>
       <p className="lead">
         <a
